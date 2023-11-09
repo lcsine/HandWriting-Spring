@@ -1,7 +1,7 @@
 package cn.tang.springframework.test.bean;
 
 /**
- *这里简单顶一个UserService对象类方便对Spring Bean容器进行测试
+ *这里简单定义一个UserService对象类方便对Spring Bean容器进行测试
  * @author tang
  *
  */
