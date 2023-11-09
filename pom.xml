@@ -11,6 +11,7 @@
     <modules>
         <module>HandWriting-springBeans</module>
         <module>HandWriting-BeanDefineRegistrationFetch</module>
+        <module>HandWriting-CglibForClassWithConstructors</module>
     </modules>
 
     <properties>
@@ -24,6 +25,11 @@
             <artifactId>junit</artifactId>
             <version>4.13.1</version>
             <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>cglib</groupId>
+            <artifactId>cglib</artifactId>
+            <version>3.1</version>
         </dependency>
     </dependencies>
 </project>
